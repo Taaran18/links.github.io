@@ -1,0 +1,33 @@
+{
+  "background": {
+    "video": "video/bg.mp4",
+    "image": "images/bgimg.jpeg"
+  },
+  "userdetails": {
+    "userimage": "images/sq.jpeg",
+    "username": "Taaran18",
+    "userbio": "Data Scientist, Student and Innovator"
+  },
+  "links": {
+    "Instagram": {
+      "href": "https://instagram.com/hacking_coders",
+      "src": "images/icons/instagram.gif"
+    },
+    "Github": {
+      "href": "https://github.com/Taaran18",
+      "src": "images/icons/github.gif"
+    },
+    "Linkedin": {
+      "href": "https://www.linkedin.com/in/taaran-jain/",
+      "src": "images/icons/linkedin.gif"
+    },
+    "Twitter": {
+      "href": "https://twitter.com/jain_taaran",
+      "src": "images/icons/twitter.gif"
+    },
+    "Contact Me": {
+      "href": "mailto:taaranjain16@gmail.com",
+      "src": "images/icons/mail.gif"
+    }
+  }
+}
